@@ -57,8 +57,8 @@ The user has succefully submitted the ticket, has the confirmation that their ti
 </p>
 <p>
 <p align="center">
-This step is where the System Administrator logs into their account, and has priority to access gain access to all tickets 
-and ressources to manage so that all other Agents can use them.
+This step is where the System Administrator logs into their account, and has the priority 
+to gain access to all tickets and ressources to manage so that all other Agents can use them.
 </p>
 <br />
 <p>
