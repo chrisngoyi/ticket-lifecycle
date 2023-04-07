@@ -39,7 +39,7 @@ The System Administrator has been setting up the Help Topic to be used by users 
 </p>
 <p>
 <p align="center">
-The Users are now able to access the Ticketing System and create their tickets .
+The image above shows how Users are now able to access the Ticketing System and create their brand new Tickets .
 </p>
 <br />
 <p>
