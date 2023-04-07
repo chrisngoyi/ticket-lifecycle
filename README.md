@@ -41,7 +41,7 @@ The Users are now able to access the Ticketing System and create their tickets .
 <br />
 
 <p>
-<img src="https://i.imgur.com/Aa4E6oN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eMvirz5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The user has succefully submitted the ticket, has the confirmation that their ticket has been received by the Help Desk.
