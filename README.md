@@ -51,14 +51,16 @@ The user has succefully submitted the ticket, has the confirmation that their ti
 <img src="https://i.imgur.com/w4e8U71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This step is where the System Administrator logs into their account, and has priority to access gain access to all tickets and ressources to manage so that all other Agents can use them.
+This step is where the System Administrator logs into their account, and has priority to access gain access to all tickets 
+and ressources to manage so that all other Agents can use them.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/5SMRopM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This interface demonstrates how a regular Agent logs into their account, and he can only access their own assigned tickets
+This interface demonstrates how a regular Agent logs into their account, and he can only access their own assigned 
+tickets
 </p>
 <br />
 <p>
@@ -67,4 +69,5 @@ This interface demonstrates how a regular Agent logs into their account, and he 
 <p>
 </p>
 <br />
-This interface demonstrates how the second Agent logs into their account, and he can only access their own assigned tickets
+This interface demonstrates how the second Agent logs into their account, and he can only access their own assigned 
+tickets
