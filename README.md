@@ -29,10 +29,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/OCA5nBt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p align="center">
 The System Administrator has been setting up the Help Topic to be used by users when creating their tickets.
 </p>
 <br />
-
 <p>
 <p align="center">
 <img src="https://i.imgur.com/GcV9rHU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -42,7 +42,6 @@ The System Administrator has been setting up the Help Topic to be used by users 
 The Users are now able to access the Ticketing System and create their tickets .
 </p>
 <br />
-
 <p>
 <p align="center">
 <img src="https://i.imgur.com/eMvirz5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
