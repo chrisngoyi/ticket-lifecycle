@@ -34,41 +34,51 @@ The System Administrator has been setting up the Help Topic to be used by users 
 <br />
 
 <p>
+<p align="center">
 <img src="https://i.imgur.com/GcV9rHU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p align="center">
 The Users are now able to access the Ticketing System and create their tickets .
 </p>
 <br />
 
 <p>
+<p align="center">
 <img src="https://i.imgur.com/eMvirz5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p align="center">
 The user has succefully submitted the ticket, has the confirmation that their ticket has been received by the Help Desk.
 </p>
 <br />
 <p>
+<p align="center">
 <img src="https://i.imgur.com/w4e8U71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p align="center">
 This step is where the System Administrator logs into their account, and has priority to access gain access to all tickets 
 and ressources to manage so that all other Agents can use them.
 </p>
 <br />
 <p>
+<p align="center">
 <img src="https://i.imgur.com/5SMRopM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p align="center">
 This interface demonstrates how a regular Agent logs into their account, and he can only access their own assigned 
 tickets
 </p>
 <br />
 <p>
+<p align="center">
 <img src="https://i.imgur.com/a0OeP1r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
+<p align="center">
 This interface demonstrates how the second Agent logs into their account, and he can only access their own assigned 
 tickets
