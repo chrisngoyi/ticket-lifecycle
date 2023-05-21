@@ -35,7 +35,7 @@ The System Administrator has been setting up the Help Topic to be used by users 
 <br />
 <p>
 <p align="center">
-<img src="https://i.imgur.com/GcV9rHU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ipcLOyD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p align="center">
